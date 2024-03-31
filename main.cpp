@@ -2,7 +2,10 @@
 
 int main()
 {
-    input();
+    // input();
+    // mainProcess();
+    // printAll();
+    output();
     printAll();
 }
 
